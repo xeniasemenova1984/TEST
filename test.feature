@@ -5,6 +5,4 @@
 @TET
 @sales
 @sales2
-@Привет1
-
-
+@hello
